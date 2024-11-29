@@ -1,5 +1,7 @@
 # Aplicativo Móvel em React Native - Disciplina de Programação para Dispositivos Móveis em Android
 
+![chrome_WWAguo6tl4](https://github.com/user-attachments/assets/94fd17c7-ce67-4838-b47b-11e5c376daed)
+
 ## Descrição
 
 Este aplicativo foi desenvolvido como parte do curso "Programação para Dispositivos Móveis em Android", utilizando **React Native**. O projeto tem como foco a compreensão e utilização de **componentes nativos** do React Native, além de explorar as práticas e funcionalidades necessárias para construir interfaces móveis dinâmicas e interativas. 
