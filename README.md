@@ -1,4 +1,4 @@
-# Aplicativo Móvel em React Native - Curso de Programação para Dispositivos Móveis em Android
+# Aplicativo Móvel em React Native - Disciplina de Programação para Dispositivos Móveis em Android
 
 ## Descrição
 
