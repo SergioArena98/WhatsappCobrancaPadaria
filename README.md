@@ -1,7 +1,3 @@
-Aqui está um exemplo de README para o GitHub, documentando o seu app com base no tema "Os Componentes Nativos do React Native", com ênfase nos tópicos de aprendizagem do curso. Esse formato é ideal para compartilhar o seu projeto com o professor ou colegas:
-
----
-
 # Aplicativo Móvel em React Native - Curso de Programação para Dispositivos Móveis em Android
 
 ## Descrição
